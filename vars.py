@@ -3,12 +3,12 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "29473197"))
-API_HASH = environ.get("API_HASH", "182c589126cae7e6128a63a5c0fd40d8")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7776221405:AAHwFNJ6KMp3T9Z3Di_een9o4Bx6rN3izr0")
-OWNER = int(environ.get("OWNER", "1511571370"))
-CREDIT = "𝄟⃝‌🐬Shivaay𝄟⃝🐬"
-AUTH_USER = os.environ.get('AUTH_USERS', '1511571370').split(',')
+API_ID = int(environ.get("API_ID", "22182189"))
+API_HASH = environ.get("API_HASH", "5e7c4088f8e23d0ab61e29ae11960bf5")
+BOT_TOKEN = environ.get("BOT_TOKEN", "")
+OWNER = int(environ.get("OWNER", "5302639580"))
+CREDIT = "RANA JII"
+AUTH_USER = os.environ.get('AUTH_USERS', '5302639580,6187058869').split(',')
 AUTH_USERS = [int(user_id) for user_id in AUTH_USER]
 if int(OWNER) not in AUTH_USERS:
     AUTH_USERS.append(int(OWNER))
