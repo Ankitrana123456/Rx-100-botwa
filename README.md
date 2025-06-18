@@ -1,14 +1,14 @@
 # Welcome to **Txt Uploader Bot**! 👋
 
 <p align="center">
-  <img src="https://files.catbox.moe/5csii6.jpg" alt="SHIVAAY-TXT-LEECH-BOT Logo">
+  <img src="" alt="RANA-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
-  SHIVAAY TXT UPLOADER BOT
+  RANA TXT UPLOADER BOT
 </h1>
 
 
-***Welcome to DRM Bot made by [@Shivaay20005](https://t.me/Shivaay20005)***
+***Welcome to DRM Bot made by [RANA JII]()***
 
 ---
 
@@ -25,7 +25,7 @@
 - `/help` — Get help on how to use the Bot
 
 ---
-## Deploy Tutorial - [By Shivaay King )
+## Deploy Tutorial - [By Rana jii)
 
 
 ## Deployment Process
@@ -37,37 +37,7 @@
 
 ---
 
-## Deploy via Buttons
-
-## Deploy via Heroku
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shivaay20005/saini-txt-direct)
 
 ---
 
 
-
-## Credit
-
-<b><details><summary>Tap On Me For See Credit</summary>
-
-💝 Credit Goes To [SHIVAAY](https://telegram.me/Shivaay20005) So Don't Forgot To Give Credit
-
-💖 And Thank You So Much To All Who Help In This Journey 💕
-
-Copyright ©️ [Shivaay](https://telegram.me/Shivaay20005)
-
-</b>
-</details>
-
-## About Owner 
- [Shivaay](https://telegram.me/Shivaay20005)
-
-</details>
-
-
-### Copyright ©️ [SHIVAAY]()
-
-
-
-**Note:** Replace the deployment button URL if you fork this repo to your own GitHub repository, so it points to your repo.
